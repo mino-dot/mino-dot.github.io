@@ -1,8 +1,8 @@
 function myFunction() {
-    document.getElementById("button");
+    document.getElementsByClassName("btn btn-dark");
     alert('Hello');
 }
 
 function dud() {
-    alert("loaded");
+    alert("Page Loaded Successfully");
 }
