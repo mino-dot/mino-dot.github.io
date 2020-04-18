@@ -12,6 +12,6 @@ p {
     text-align: center;
 }
 
-button {
+.btn btn-dark {
     margin-left: -70px;
 }
