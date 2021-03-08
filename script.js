@@ -7,7 +7,7 @@ function dud() {
     console.log("Hello");
 }
 
-var myVar = setInterval(myTimer, 9000);
+var myVar = setInterval(myTimer, 60000);
 
 function myTimer() {
   var d = new Date();
