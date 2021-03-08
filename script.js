@@ -3,6 +3,6 @@ function myFunction() {
     alert('Hello');
 }
 
-function test() {
-    console.log("Hello, if you are reading this, DON'T");
+function dud() {
+    console.log("Hello");
 }
