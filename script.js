@@ -4,5 +4,5 @@ function myFunction() {
 }
 
 function test() {
-    console.log("Hello, if you are reading this, DON'T")
+    console.log("Hello, if you are reading this, DON'T");
 }
